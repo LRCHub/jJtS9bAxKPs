@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "MAZE WORLD",
+  "base_artist": "手越祐也",
+  "createdAt": "2026-02-21T06:15:50.937931Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAZE WORLD",
+      "artist": "手越祐也",
+      "has_synced": false,
+      "path": "select/pl_01_MAZE_WORLD_手越祐也.txt"
+    }
+  ]
+}
